@@ -10,4 +10,4 @@ RingTyper.com is a website that hosts various typing games related to the alphab
 
 ## Live Site
 
-[brandonkenter.com](https://www.ringtyper.com/)
+[ringtyper.com](https://www.ringtyper.com/)
